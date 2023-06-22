@@ -1,0 +1,8 @@
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.csproj.AssemblyReference.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.csproj.SuggestedBindingRedirects.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.csproj.CoreCompileInputs.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\bin\Debug\Aula07jogos.exe.config
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\bin\Debug\Aula07jogos.exe
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\bin\Debug\Aula07jogos.pdb
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.exe
+D:\Users\eduardo.lsilva43\source\repos\Aula07jogos\Aula07jogos\obj\Debug\Aula07jogos.pdb
